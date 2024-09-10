@@ -1,0 +1,17 @@
+.montserrat-fam {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-size: 14px;
+  font-weight: bold;
+  color: black;
+}
+.montserrat-low {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-size: 14px;
+  font-weight: 500px;
+  background-color:rgb(48, 46, 46);
+}
+  
